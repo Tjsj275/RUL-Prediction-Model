@@ -35,7 +35,7 @@ It predicts the **Remaining Useful Life (RUL)** of industrial machines from mult
 ---
 
 ## 🗂 Project Structure
-
+```
 Predictive-Maintenance-System/
 │
 ├── data/
@@ -55,7 +55,7 @@ Predictive-Maintenance-System/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
