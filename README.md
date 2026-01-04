@@ -39,21 +39,23 @@ It predicts the **Remaining Useful Life (RUL)** of industrial machines from mult
 Predictive-Maintenance-System/
 │
 ├── data/
-│ └── cmapss/
+│   └── cmapss/
 │
 ├── notebooks/
-│ ├── 01_data_exploration.ipynb
-│ ├── 02_feature_engineering.ipynb
-│ ├── 03_rul_modeling.ipynb
-│ ├── 04_anomaly_detection.ipynb
-│ └── 05_evaluation_analysis.ipynb
+│   ├── 01_data_exploration.ipynb
+│   ├── 02_feature_engineering.ipynb
+│   ├── 03_rul_modeling.ipynb
+│   ├── 04_anomaly_detection.ipynb
+│   └── 05_evaluation_analysis.ipynb
 │
 ├── models/
-│ └── rul_lstm_model_fd001.keras
+│   └── rul_lstm_model_fd001.keras
 │
 ├── gradio_app.py
 ├── requirements.txt
+├── .gitignore
 └── README.md
+
 
 ---
 
