@@ -1,0 +1,9 @@
+pm_env/
+__pycache__/
+*.dll
+*.pyd
+*.so
+*.whl
+*.exe
+.ipynb_checkpoints/
+.env
